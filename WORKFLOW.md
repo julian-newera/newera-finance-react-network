@@ -24,14 +24,12 @@ Ethereum/Arbitrum/etc (Destination Chain)
 
 ## Contract Addresses
 
-### Reactive Network (Origin Chain)
-- **Cron Contract**: `0x[REACTIVE_CONTRACT_ADDRESS]`
+### Reactive Testnet (Origin Chain)
+- **Cron Contract**: `0xc3452836732be1cd06269205251fbe1917f42767`
 - **System Contract**: `0xc9f36411C9897e7F959D99ffca2a0Ba7ee0D7bDA`
 
-### Ethereum Mainnet (Destination Chain)
-- **Callback Contract**: `0x[CALLBACK_CONTRACT_ADDRESS]`
-- **Hook Contract**: `0xAd33Fff75D8B3C75EdD6D63e9D537400784e2000`
-- **Pool Manager**: `0xE03A1074c86CFeDd5C142C4F04F1a1536e203543`
+### Ethereum Sepolia (Destination Chain)
+- **Callback Contract**: `0xE5449F5f2DBC9e596aA37E4DA0e75F5360bDc636`
 - **Price Oracle**: `0x0bB8Dd51273aA4F59b4F4BD26Be153328a5ee89E`
 
 ## Workflow Examples

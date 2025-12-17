@@ -186,14 +186,13 @@ The system supports multiple chains:
 
 ### Contract Addresses
 
-#### Reactive Network
-- **Cron Contract**: `0x[REACTIVE_CONTRACT_ADDRESS]`
+#### Reactive Testnet
+- **Cron Contract**: `0xc3452836732be1cd06269205251fbe1917f42767`
 - **System Contract**: `0xc9f36411C9897e7F959D99ffca2a0Ba7ee0D7bDA`
 
-#### Ethereum Mainnet
-- **Callback Contract**: `0x[CALLBACK_CONTRACT_ADDRESS]`
-- **Hook Contract**: `0xAd33Fff75D8B3C75EdD6D63e9D537400784e2000`
-- **Pool Manager**: `0xE03A1074c86CFeDd5C142C4F04F1a1536e203543`
+#### Ethereum Sepolia
+- **Callback Contract**: `0xE5449F5f2DBC9e596aA37E4DA0e75F5360bDc636`
+- **Hook Contract**: `0x9a57784250f0de5b20ba70cb56535a280a93e000`
 
 ## 🔒 Security
 
@@ -227,13 +226,6 @@ This project is licensed under the GPL-2.0-or-later License - see the [LICENSE](
 - **Reactive Network** for providing the reactive smart contract infrastructure
 - **Uniswap v4** for the advanced automated market maker technology
 - **Foundry** for the excellent development tooling
-
-## 📞 Contact
-
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [your-username]
-- **Twitter**: [@your_twitter]
 
 ---
 
