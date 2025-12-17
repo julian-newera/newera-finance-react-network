@@ -62,7 +62,7 @@ contract DeployReactive is Script {
         uint256 destinationChainId
     ) public returns (address) {
         // Get deployer private key from environment
-        uint256 deployerPrivateKey = vm.envOr("PRIVATE_KEY", uint256(0x151ee9c063332f97069f4f2833c32878a3e35a77070869fae3c0c6050c055528));
+        uint256 deployerPrivateKey = vm.envOr("PRIVATE_KEY", uint256());
         address deployer = vm.addr(deployerPrivateKey);
 
         console2.log("=== DEPLOYING REACTIVE CONTRACT ===");
